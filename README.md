@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy Juarez</h1>
-<h3 align="center">A passionate full stack developer Chicago</h3>
+<h3 align="center">A passionate full stack developer from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyjuare&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyjuare" /> </p>
 
@@ -37,6 +37,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JimmyJuare&icon=5&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
